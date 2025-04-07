@@ -1,12 +1,11 @@
 function App() {
-  return (
-    <>
-      <div>
-        Hello world!
-      </div>
-    </>
-  )
+    return (
+        <>
+            <div className="grid place-items-center h-screen w-screen text-6xl">
+                Hello world!
+            </div>
+        </>
+    );
 }
 
 export default App;
-
